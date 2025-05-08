@@ -30,6 +30,7 @@ tic-tac-toe/
 └── app.js
 
 ✨ Live Demo
+https://tic-tac-toe-nishits-projects-b39f97dc.vercel.app/
 🔗 Live Demo
 
 🙌 Author
